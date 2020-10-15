@@ -1,0 +1,33 @@
+{
+    "name": "vue3-experiment",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "build": "webpack",
+        "serve": "webpack serve",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vuejs/vue-next-webpack-preview.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/vuejs/vue-next-webpack-preview/issues"
+    },
+    "homepage": "https://github.com/vuejs/vue-next-webpack-preview#readme",
+    "dependencies": {
+        "typescript": "^4.0.3",
+        "webpack": "^5.1.0"
+    },
+    "devDependencies": {
+        "ts-loader": "^8.0.5",
+        "ts-node": "^9.0.0",
+        "tsc": "^1.20150623.0",
+        "webpack-cli": "^4.0.0",
+        "webpack-dev-server": "^3.11.0"
+    },
+    "description": ""
+}
